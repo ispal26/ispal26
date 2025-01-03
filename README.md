@@ -12,7 +12,7 @@ I thrive at the intersection of **creativity and science**, using my technical a
   - Strong project management skills, turning **business goals into actionable strategies**  
   - Multidisciplinary perspective from **business analytics, liberal studies**, and **finance**  
   - Proven ability to deliver **measurable results** for clients in the **technology** and **banking** sectors  
-- 📫 **How to Reach Me**: [LinkedIn]((https://www.linkedin.com/in/arorapallavi26/)) or [Email](mailto:pallavi.arora26@outlook.com).  
+- 📫 **How to Reach Me**: [LinkedIn](https://www.linkedin.com/in/arorapallavi26/) or [Email](mailto:pallavi.arora26@outlook.com).  
 - 😄 **Pronouns**: She/Her  
 - ⚡ **Fun Fact**: I can recite the first **50 digits of pi** — let’s not test that after midnight!  
 
