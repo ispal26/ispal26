@@ -1,10 +1,10 @@
 👋 Hi, I’m Pallavi Arora  
 
 🌟 **Professional Summary**  
-I’m a **data enthusiast** with a multidisciplinary background that blends **business analytics, sustainability**, and **liberal studies**. With three years of experience in the data science domain, I specialize in leveraging **data-driven insights** to inform strategic decisions. 
-I thrive at the intersection of **creativity and science**, using my technical and analytical skills to craft impactful solutions that drive measurable outcomes.  
+I’m a **data enthusiast** with a multidisciplinary background that blends **business analytics, sustainability**, **finance** and **liberal studies**. With three years of experience in the data science domain, I specialize in leveraging **data-driven insights** to inform strategic decisions. 
+I thrive at the intersection of **creativity and science**, using my technical and analytical skills to craft impactful solutions that drive measurable outcomes.  As an entrepreneur at heart, I thrive at leading impactful projects. 
 
-- 👀 **Roles of Interest**: I’m passionate about roles like **Sustainability Data Analyst**, **Business Intelligence Analyst**, and **Data Scientist**.  
+- 👀 **Roles of Interest**: I’m passionate about roles like **Data Analyst**, **Business Intelligence Analyst**, **Product Analyst**, **Business Analyst** and **Data Scientist**.  
 - 🌱 **Currently Learning**: Sharpening my skills in **predictive modeling**, **AI for social good(Responsible AI)**, and **computational neuroscience**. Also, I'm picking up some golf swings along the way!  
 - 💞️ **Looking to Collaborate On**: Projects that involve **data analytics**, **Business intelligence**, or **innovative applications of AI** to tackle real-world challenges.  
 - 💪 **Key Strengths**:  
