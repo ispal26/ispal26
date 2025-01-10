@@ -6,7 +6,7 @@ I thrive at the intersection of **creativity and science**, using my technical a
 
 - 👀 **Roles of Interest**: I’m passionate about roles like **Data Analyst**, **Business Intelligence Analyst**, **Product Analyst**, **Business Analyst** and **Data Scientist**.  
 - 🌱 **Currently Learning**: Sharpening my skills in **predictive modeling**, **AI for social good(Responsible AI)**, and **computational neuroscience**. Also, I'm picking up some golf swings along the way!  
-- 💞️ **Looking to Collaborate On**: Projects that involve **data analytics**, **Business intelligence**, or **innovative applications of AI** to tackle real-world challenges.  
+- 💞️ **Looking to Collaborate On**: Projects that involve **Analytics**, **Business intelligence**, or **innovative applications of AI** to tackle real-world challenges.  
 - 💪 **Key Strengths**:  
   - Expertise in **SQL**, **Python**,and advanced **data analytics tools**  
   - Strong project management skills, turning **business goals into actionable strategies**  
