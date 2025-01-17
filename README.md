@@ -1,8 +1,6 @@
-👋 Hi, I’m Pallavi Arora  
+# 👋 Hi, I’m Pallavi Arora  
 
-🌟 **Professional Summary**
-
-   
+## Professional Summary   
 I’m a **data enthusiast** with a multidisciplinary background that blends **business analytics, sustainability**, **finance** and **liberal studies**. With three years of experience in the data science domain, I specialize in leveraging **data-driven insights** to inform strategic decisions. 
 I thrive at the intersection of **creativity and science**, using my technical and analytical skills to craft impactful solutions that drive measurable outcomes.  As an entrepreneur at heart, I thrive at leading impactful projects. 
 
@@ -24,7 +22,7 @@ I thrive at the intersection of **creativity and science**, using my technical a
 ## Profile Links:   
 
 Leetcode : https://leetcode.com/u/Pallaviarora26/
-My Datacamp Portfolio : https://www.datacamp.com/portfolio/pxa220043
+Hackerrank : https://www.hackerrank.com/profile/pallavi_arora26
 
 <!---
 ispal26/ispal26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
