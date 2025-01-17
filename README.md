@@ -1,6 +1,7 @@
 👋 Hi, I’m Pallavi Arora  
 
-🌟 **Professional Summary**  
+🌟 **Professional Summary**     
+
 I’m a **data enthusiast** with a multidisciplinary background that blends **business analytics, sustainability**, **finance** and **liberal studies**. With three years of experience in the data science domain, I specialize in leveraging **data-driven insights** to inform strategic decisions. 
 I thrive at the intersection of **creativity and science**, using my technical and analytical skills to craft impactful solutions that drive measurable outcomes.  As an entrepreneur at heart, I thrive at leading impactful projects. 
 
