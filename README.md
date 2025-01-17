@@ -18,6 +18,8 @@ I thrive at the intersection of **creativity and science**, using my technical a
 
 ✨ I’m excited to connect with like-minded individuals and collaborate on projects that make an impact. 
 
+
+Profile Links:
 Leetcode : https://leetcode.com/u/Pallaviarora26/
 My Datacamp Portfolio : https://www.datacamp.com/portfolio/pxa220043
 
@@ -25,3 +27,4 @@ My Datacamp Portfolio : https://www.datacamp.com/portfolio/pxa220043
 ispal26/ispal26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
