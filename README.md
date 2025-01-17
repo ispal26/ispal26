@@ -19,7 +19,8 @@ I thrive at the intersection of **creativity and science**, using my technical a
 ✨ I’m excited to connect with like-minded individuals and collaborate on projects that make an impact. 
 
 
-Profile Links:
+## Profile Links:   
+
 Leetcode : https://leetcode.com/u/Pallaviarora26/
 My Datacamp Portfolio : https://www.datacamp.com/portfolio/pxa220043
 
