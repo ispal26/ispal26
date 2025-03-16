@@ -6,12 +6,12 @@ I’m a **data-driven problem solver** with a multidisciplinary background spann
 I thrive at the intersection of **creativity, science, and business**, combining my technical expertise with a strategic mindset to craft impactful solutions. As an **entrepreneur at heart**, I excel in leading **high-impact projects** that deliver measurable outcomes.  
 
 ### 👀 Roles of Interest  
-I'm passionate about roles like **Product Analyst**, **Data Analyst**, **Business Intelligence Analyst**, **Business Analyst**, and **Data Scientist**, particularly those that involve **user behavior analysis, product optimization, and AI-driven decision-making**.  
+I'm passionate about roles like **Product Analyst**, **Product Manager**, **Data Analyst**, **Business Intelligence Analyst**, **Business Analyst**, and **Data Scientist**, particularly those that involve **user behavior analysis, product optimization, and AI-driven decision-making**.  
 
 ### 🌱 Currently Learning  
 - **Predictive modeling & Responsible AI**  
 - **AI for product innovation**  
-- **Computational neuroscience**  
+- **Data Mesh, Data Infrastructures**  
 - **Product analytics & user behavior modeling**  
 - Also, picking up some **golf swings** along the way! ⛳  
 
